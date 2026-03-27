@@ -41,11 +41,11 @@ Open [http://localhost:3000](http://localhost:3000)
 
 ## Usage
 
-1. Sign up or continue as anonymous user
-2. Describe the React component you want to create in the chat
-3. View generated components in real-time preview
-4. Switch to Code view to see and edit the generated files
-5. Continue iterating with the AI to refine your components
+1. Sign up or continue as anonymous user.
+2. Describe the React component you want to create in the chat.
+3. View generated components in real-time preview.
+4. Switch to Code view to see and edit the generated files.
+5. Continue iterating with the AI to refine your components.
 
 ## Features
 
